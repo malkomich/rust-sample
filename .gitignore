@@ -1,1 +1,15 @@
-target
+### Compile folders
+target/
+
+### Rust & Cargo generated files
+Cargo.lock
+**/*.rs.bk
+
+### Intellij+iml ###
+.idea/
+.idea_modules/
+out/
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
